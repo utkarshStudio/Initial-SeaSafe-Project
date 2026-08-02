@@ -3,7 +3,7 @@
 **Decision support at the helm.** A local-first, AI-powered maritime route intelligence console built for **Buildathon 2026** by **Team TryHard**.
 
 🔗 **Live demo:** [seasafe-three.vercel.app](https://seasafe-three.vercel.app)
-📦 **Repo:** [github.com/utkarshStudio/Buildathon-2026-TryHard](https://github.com/utkarshStudio/Buildathon-2026-TryHard)
+📦 **Repo:** [github.com/utkarshStudio/-SeaSafe](https://github.com/utkarshStudio/-SeaSafe)
 
 ---
 
@@ -46,8 +46,8 @@ SeaSafe puts real-time route intelligence directly on the bridge — one pane co
 ## Getting Started
 
 ```bash
-git clone https://github.com/utkarshStudio/Buildathon-2026-TryHard.git
-cd Buildathon-2026-TryHard
+git clone https://github.com/utkarshStudio/-SeaSafe.git
+cd BlockSeBlock_codex_Hackathon
 npm install
 npm run dev
 ```
