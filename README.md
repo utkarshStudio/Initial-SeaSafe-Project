@@ -1,7 +1,5 @@
 # 🌊 SeaSafe — Captain's Copilot
 
-**Decision support at the helm.** A local-first, AI-powered maritime route intelligence console built for **Buildathon 2026** by **Team TryHard**.
-
 🔗 **Live demo:** [seasafe-three.vercel.app](https://seasafe-three.vercel.app)
 📦 **Repo:** [github.com/utkarshStudio/-SeaSafe](https://github.com/utkarshStudio/-SeaSafe)
 
@@ -67,11 +65,6 @@ lib/
   tools/          AI orchestrator tool definitions
   seaRoute.ts      Real sea-lane route generation (searoute-js)
 ```
-
-## Team
-
-**TryHard** — Buildathon 2026.
-
 ---
 
 *Bring data to the bridge.*
